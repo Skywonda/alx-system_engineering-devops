@@ -1,0 +1,4 @@
+mkdir tmp
+cd tmp
+mkdir 6-firstdirectory
+cd 6-firstdirectory
