@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir my_dir
+cd my_dir
+chmod u+x my_dir
